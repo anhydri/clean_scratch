@@ -1,11 +1,11 @@
 # clean_scratch
 
-Download:
-'''bash
+Download: <br/>
+```bash
 git clone https://github.com/anhydri/clean_scratch.git
-'''
+```
 
-Usage:
-'''bash
+Usage: <br/>
+```bash
 bash clean_scratch.sh
-'''
+```
